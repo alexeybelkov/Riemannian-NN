@@ -7,4 +7,5 @@ Riemannian geometry approach to Deep Neural Networks
 [Pseudo-Riemannian Graph Convolutional Networks](https://arxiv.org/abs/2106.03134)     
 [Semi-Riemannian Graph Convolutional Networks](https://www.researchgate.net/publication/352209235_Semi-Riemannian_Graph_Convolutional_Networks)     
 https://www.intlpress.com/site/pub/pages/journals/items/mcgd/content/vols/0002/0001/a001/index.php?mode=ns     
-[Directed Graph Embeddings in Pseudo-Riemannian Manifolds](https://arxiv.org/pdf/2106.08678.pdf)
+[Directed Graph Embeddings in Pseudo-Riemannian Manifolds](https://arxiv.org/pdf/2106.08678.pdf)     
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7996742/     
