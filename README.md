@@ -9,3 +9,4 @@ Riemannian geometry approach to Deep Neural Networks
 https://www.intlpress.com/site/pub/pages/journals/items/mcgd/content/vols/0002/0001/a001/index.php?mode=ns     
 [Directed Graph Embeddings in Pseudo-Riemannian Manifolds](https://arxiv.org/pdf/2106.08678.pdf)     
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7996742/     
+https://openreview.net/forum?id=sf2BxJNXC3K     
